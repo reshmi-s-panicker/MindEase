@@ -1,4 +1,78 @@
+#  MindEase – AI-Powered Student Mental Health Support System
 
+##  Overview
+
+MindEase is a full-stack web application designed to support students' mental well-being by providing a secure platform for connecting with professional counselors and accessing AI-assisted mental health support. The platform offers confidential counseling services, appointment scheduling, and an intelligent chatbot to enhance student well-being.
+
+---
+
+##  Features
+
+###  Student Module
+- Student Registration & Login
+- Secure Authentication
+- Book Counseling Appointments
+- AI Chatbot for Emotional Support
+- View Appointment Status
+- Manage Student Profile
+
+###  Counselor Module
+- Counselor Registration & Login
+- Manage Appointments
+- View Student Requests
+- Accept/Reject Counseling Sessions
+- Dashboard for Counseling Activities
+
+###  AI Support
+- AI-powered mental health assistance
+- Personalized conversational support
+- Student-friendly interaction interface
+
+---
+
+##  Tech Stack
+
+### Frontend
+- React.js
+- JavaScript
+- HTML5
+- CSS3
+
+### Backend
+- Node.js
+- Express.js
+
+### Database
+- SQLite (better-sqlite3)
+
+### Authentication
+- JWT Authentication
+- bcrypt
+
+### APIs & Libraries
+- Google Gemini API
+- CORS
+
+---
+
+##  Project Structure
+
+```
+MindEase
+│
+├── client/                 # React Frontend
+├── server/
+│   ├── src/                # Backend Source Code
+│   ├── data/               # SQLite Database
+│   └── package.json
+│
+├── src/
+├── public/
+├── package.json
+└── README.md
+```
+
+---
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -70,6 +144,17 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 =======
-# MindEase
-MindEase is an AI-powered student mental health support platform that connects students with counselors through a secure and accessible web application. The platform provides AI-guided emotional support, appointment booking, counselor management, and a confidential environment for mental wellness using React, Node.js, Express.js, and SQLite.
->>>>>>> 63b3960bfbe1a962236feb81f1fb24c6c2accff0
+
+## 👩‍💻 Author
+
+**Reshmi S Panicker**
+
+- GitHub: https://github.com/reshmi-s-panicker
+- LinkedIn: https://www.linkedin.com/in/reshmi-s-panicker/
+
+---
+
+## 📄 License
+
+This project is shared for educational and portfolio purposes.
+
