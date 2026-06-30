@@ -150,7 +150,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 **Reshmi S Panicker**
 
 - GitHub: https://github.com/reshmi-s-panicker
-- LinkedIn: https://www.linkedin.com/in/reshmi-s-panicker/
+- LinkedIn: https://linkedin.com/in/reshmi-s-panicker-28b07922b
 
 ---
 
